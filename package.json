@@ -1,5 +1,5 @@
 {
-    "name": "react-gpt",
+    "name": "@codingcat/react-gpt",
     "version": "2.0.13",
     "description": "A react display ad component using Google Publisher Tag",
     "main": "lib/index.js",
@@ -15,8 +15,8 @@
         "url": "https://github.com/nfl/react-gpt"
     },
     "keywords": [
+        "codingcat.dev",
         "react-gpt",
-        "nfl",
         "react",
         "ad",
         "gpt",
