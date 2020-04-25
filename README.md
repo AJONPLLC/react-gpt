@@ -1,4 +1,13 @@
-<img align="right" height="200" src="http://static.nfl.com/static/content/public/static/img/logos/nfl-engineering-light.svg" />
+
+# React Google Publisher Tag
+
+This package was originally created by the NFL and hosted at 
+https://www.npmjs.com/package/react-gpt
+
+Forked by https://github.com/mcontigo/react-gpt
+
+We are publishing here to stay updated more regularly and host on NPM.
+
 
 # React GPT
 
